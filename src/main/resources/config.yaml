@@ -1,0 +1,8 @@
+mq:
+  url:
+  client_secret:
+  client_id:
+
+api:
+  workflow_automation_papi_endpoint_host:
+
