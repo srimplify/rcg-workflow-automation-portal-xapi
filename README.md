@@ -1,4 +1,4 @@
-### Experience API to be consumer by a front-end like web portal 
+### Experience API to be consumed by a front-end like web portal 
 ---
 
 This API helps to present CRUD ops on workflow automation Salesforce custom object. See below for sample use case and API-led design.
